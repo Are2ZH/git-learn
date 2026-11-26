@@ -1,0 +1,7 @@
+debug.log
+*.log
+*.tmp
+node_modules/
+build/
+**/cache/
+!important.log
